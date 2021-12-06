@@ -1,0 +1,20 @@
+header {
+    border-bottom: 2px $line solid;
+    padding: 0px 0px 10px 0px;
+    margin-bottom: 2em;
+}
+
+header a {
+    text-decoration: none;
+    color: $text;
+}
+
+header a h1 {
+    font-size: 28px;
+    margin: 0px;
+    padding: 0px;
+    color: $text;
+}
+header a h1:before {
+    content:""
+}
