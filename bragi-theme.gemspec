@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "My jekyll theme used for all bragi-listlausson.net sites"
   spec.homepage      = "https://github.com/bragi-litlausson/bragis-jekyll-theme"
-  spec.license       = "0-BSD"
+  spec.license       = "0BSD"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 

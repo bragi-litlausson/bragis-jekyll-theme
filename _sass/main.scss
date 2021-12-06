@@ -32,6 +32,16 @@ a:hover {
     text-decoration: underline;
 }
 
+.article-title{
+    color: $text;
+    font-size: 32px;
+    text-align: center;
+}
+
+.article-title:before {
+    content: none;
+}
+
 h1 {
     color: $pink;
 }

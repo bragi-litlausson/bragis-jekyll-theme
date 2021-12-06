@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "TEST PAGE"
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
