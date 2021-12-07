@@ -1,7 +1,12 @@
 .photo {
+    margin: 0px;
+}
+
+.photo img{
     border: 10px solid $text;
 }
 
-.photo-wide {
-    width: 100%;
+.banner {
+    display: block;
+    max-width: 100%;
 }

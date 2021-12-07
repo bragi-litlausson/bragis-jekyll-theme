@@ -100,11 +100,8 @@ end
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+### Banner image
+<img src="https://docs.github.com/assets/images/help/repository/branching.png" alt="Github Docs: Branching" class="banner">
 
 ### Definition lists can be used with HTML syntax.
 
